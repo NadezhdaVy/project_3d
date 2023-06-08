@@ -1,2 +1,2 @@
 import SectionLayout from "./SectionLayout";
-export {SectionLayout}
+export { SectionLayout };
